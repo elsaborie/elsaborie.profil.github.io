@@ -1,0 +1,130 @@
+
+body {
+    background-color: #C9C9C9;
+       color: #484848;
+   font-family: 'Lora', serif;
+       font-size: 16px;
+   }
+
+   .profile-image {
+    display: block;
+    margin: 20px auto; 
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+}
+
+   
+   h1, h2 {
+   font-family: 'Source Sans Pro', sans-serif;
+   letter-spacing: 5px;
+   font-weight: bold;
+   color:#9f8376;
+   }
+   h1 {
+       font-weight: 700;
+       text-transform: uppercase;
+       font-size: 30px
+   color:16px#9f8376
+   ;
+   }
+   
+   h2 {
+   font-size: 25px;
+   }
+   
+   a {
+   text-decoration: none;
+   color: #3096F7;
+   font-weight: bold;
+   font-family: 'Source Sans Pro', sans-serif
+   }
+   
+   a:hover {
+   color: #69A9CD;
+   }
+      
+   .container {
+   width: 700px;
+   margin: 40px auto;
+   }
+   
+   .card-white {
+   background-color: white;
+   padding: 40px;
+   box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+   border-radius: 4px;
+   margin: 20px 0px;
+   text-align: center;
+   }
+   
+   .img-circle {
+   border-radius: 60%;
+   }
+   
+   .btn-blue {
+   background-color: #9f8376;
+   color: white;
+   padding: 10px 15px;
+   border-radius: 4px;
+   }
+   
+   .btn-blue:hover {
+   background-color: #9f8376;
+   color: white;
+   }
+   
+   .list-inline {
+   list-style: none;
+   padding-left: 0px;
+   color: #9f8376;
+   }
+   
+   .list-inline li{
+   display: inline;
+   padding: 10px;
+   color: #9f8376;
+   }
+   
+   .list-inline i{
+   font-size: 50px;
+   color: #9f8376;
+   }
+   .list-inline i:hover {
+   font-size: 50px;
+   color: #9f8376;
+   }
+   
+   #introduction p{
+   margin-bottom: 40px;
+   color: #9f8376;
+   
+   }
+
+
+   .experience-block p {
+    color: #9f8376; /* Dark brown for text */
+    font-family: 'Open Sans', sans-serif; /* or any preferred font */
+    font-size: 14px; /* Adjust as needed */
+    margin-bottom: 1px; /* Reduced space between paragraphs */
+    line-height: 1.4; /* Adjust for line spacing, smaller values bring lines closer */
+}
+
+.experience-block p {
+    color: #9f8376; /* Dark brown for text */
+    font-family: 'Open Sans', sans-serif; /* or any preferred font */
+    font-size: 14px; /* Adjust as needed */
+    margin-bottom: 1px; /* Reduced space between paragraphs */
+    line-height: 1.4;
+}
+
+.experience-block {
+    padding: 10px; 
+    margin-bottom: 1px; 
+}
+
+
+.card-white {
+    margin-bottom: 1px;
+}
